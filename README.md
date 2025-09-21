@@ -1,2 +1,3 @@
-Cristian Yahir Campos Aparicio
-Lindys Arely Martinez Herrera 
+Cristian Yahir Campos Aparicio SMSS109222
+Lindys Arely Martinez Herrera SMSS170822
+El programa desarrollado con PyQt5 resuelve la necesidad de calcular de forma rápida y confiable el sueldo mensual de los vendedores en pequeños y medianos negocios, donde el pago no solo depende de un salario base, sino también de comisiones por ventas y posibles bonos por metas alcanzadas. Con una interfaz gráfica sencilla, la aplicación permite ingresar los datos clave del trabajador, obtener automáticamente el detalle de comisión, bono y sueldo total, y registrar los resultados en una tabla con opción de exportarlos a CSV. De esta manera, se evita la realización manual de cálculos propensos a errores, se optimiza el tiempo y se mantiene un control organizado y digital de la información.
